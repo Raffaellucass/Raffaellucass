@@ -13,4 +13,5 @@
     <img align="center" alt="htm15" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="htm15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/
+
 Sempre ativo em meios tecnológicos com a finalidade de evoluir continuamente. 
